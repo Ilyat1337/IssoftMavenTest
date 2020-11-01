@@ -1,0 +1,2 @@
+2020-11-01 18:31:00,650 INFO [main] FileLogger [FileLogger.java:8] Logging to file!
+2020-11-01 18:31:00,654 ERROR [main] FileLogger [FileLogger.java:10] Error level test.
